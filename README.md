@@ -28,21 +28,13 @@ Data Analyst with a proven track record of transforming complex data into action
 ---  
 
 ## **📂 Notable Projects**  
-### **🎯 Plastic Mold Process Optimization (Capstone Project)**  
-- Developed a **Random Forest regression model** and **SLSQP optimization algorithm** to minimize cycle time in plastic molding.  
-- Reduced cycle time to **75.3s** while meeting shot volume and clamp force constraints, enhancing efficiency.  
 
-### **🌱 Plant Seedling Classification Using CNNs**  
-- Built a **TensorFlow CNN model** to classify **12 plant seedling species** from **4,750 images**.  
-- Achieved **85.9% accuracy** using **data augmentation and batch normalization**.  
-
-### **🎭 IMDb Sentiment Analysis (NLP)**  
-- Developed an **LSTM-based neural network** with TensorFlow to classify sentiment in **748 IMDb reviews**.  
-- Achieved **70% test accuracy** with **text preprocessing and sequence modeling**.  
-
-### **🚚 Amazon Distribution Network Optimization**  
-- Modeled a **linear programming solution with Pyomo** to optimize shipments across **2 hubs, 3 cities, 65 centers**.  
-- Minimized transportation costs to **$180,476.25 per month** while meeting capacity constraints.  
+| Project | Description | Live Demo | Repo |  
+|---------|------------|-----------|------|  
+| **🛠️ Plastic Mold Process Optimization** | Optimized plastic molding using Random Forest & SLSQP. | [🔗 Live](https://maxwellcobi.github.io/Plastic-Mold-Process-Optimization/) | [📂 Code](https://github.com/maxwellcobi/Plastic-Mold-Process-Optimization) |  
+| **🌱 Plant Seedling Classification** | Classified 12 plant species using CNNs & TensorFlow. | [🔗 Live](https://maxwellcobi.github.io/Plant-Seedling-Classification-Using-Convolutional-Neural-Networks/) | [📂 Code](https://github.com/maxwellcobi/Plant-Seedling-Classification-Using-Convolutional-Neural-Networks) |  
+| **🚚 Amazon Distribution Optimization** | Optimized shipping routes with linear programming. | [🔗 Live](https://maxwellcobi.github.io/Amazon-Distribution-Network-Optimization/) | [📂 Code](https://github.com/maxwellcobi/Amazon-Distribution-Network-Optimization) |  
+| **🎭 Sentiment Analysis (NLP)** | Analyzed IMDb reviews using LSTMs & TensorFlow. | [🔗 Live](https://maxwellcobi.github.io/Sentiment-Analysis-Using-Neural-Networks/) | [📂 Code](https://github.com/maxwellcobi/Sentiment-Analysis-Using-Neural-Networks) |  
 
 ---  
 
