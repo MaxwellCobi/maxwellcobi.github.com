@@ -29,12 +29,12 @@ Data Analyst with a proven track record of transforming complex data into action
 
 ## **📂 Notable Projects**  
 
-| Project | Description | Live Demo | Repo |  
-|---------|------------|-----------|------|  
-| **🛠️ Plastic Mold Process Optimization** | Optimized plastic molding using Random Forest & SLSQP. | [🔗 Live](https://maxwellcobi.github.io/Plastic-Mold-Process-Optimization/) | [📂 Code](https://github.com/maxwellcobi/Plastic-Mold-Process-Optimization) |  
-| **🌱 Plant Seedling Classification** | Classified 12 plant species using CNNs & TensorFlow. | [🔗 Live](https://maxwellcobi.github.io/Plant-Seedling-Classification-Using-Convolutional-Neural-Networks/) | [📂 Code](https://github.com/maxwellcobi/Plant-Seedling-Classification-Using-Convolutional-Neural-Networks) |  
-| **🚚 Amazon Distribution Optimization** | Optimized shipping routes with linear programming. | [🔗 Live](https://maxwellcobi.github.io/Amazon-Distribution-Network-Optimization/) | [📂 Code](https://github.com/maxwellcobi/Amazon-Distribution-Network-Optimization) |  
-| **🎭 Sentiment Analysis (NLP)** | Analyzed IMDb reviews using LSTMs & TensorFlow. | [🔗 Live](https://maxwellcobi.github.io/Sentiment-Analysis-Using-Neural-Networks/) | [📂 Code](https://github.com/maxwellcobi/Sentiment-Analysis-Using-Neural-Networks) |  
+| Project | Description | Live Demo |  
+|---------|------------|-----------|  
+| **🛠️ Plastic Mold Process Optimization** | Optimized plastic molding using Random Forest & SLSQP. | [🔗 Live](https://maxwellcobi.github.io/Plastic-Mold-Process-Optimization/) |  
+| **🌱 Plant Seedling Classification** | Classified 12 plant species using CNNs & TensorFlow. | [🔗 Live](https://maxwellcobi.github.io/Plant-Seedling-Classification-Using-Convolutional-Neural-Networks/) |  
+| **🚚 Amazon Distribution Optimization** | Optimized shipping routes with linear programming. | [🔗 Live](https://maxwellcobi.github.io/Amazon-Distribution-Network-Optimization/) |  
+| **🎭 Sentiment Analysis (NLP)** | Analyzed IMDb reviews using LSTMs & TensorFlow. | [🔗 Live](https://maxwellcobi.github.io/Sentiment-Analysis-Using-Neural-Networks/) |  
 
 ---  
 
